@@ -32,7 +32,7 @@ scikit-image==0.19.3
 </tr>
 
 <tr>
-<td> Truck </td> <td width=50%><img src="./GTTruck.gif"></td><td width=50%><img src="./TestTruck.gif"> </td>
+<td> Truck </td> <td width=50%><img src="./other_imgs/GTTruck.gif"></td><td width=50%><img src="./other_imgs/TestTruck.gif"> </td>
 </tr>
 </table>
 
